@@ -2,9 +2,11 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/language-Java-red.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/IDE-Eclipse-yellow.svg?cacheSeconds=2592000" />
 </p>
 
 > Created a beakout game using Java using JPanel, KeyListener, Action Listener and AWT Font.
+> Extract .jar file or use class files
 
 ### 🏠 [Homepage](https://github.com/OptimisticTrousers/Java-breakoutGame)
 
