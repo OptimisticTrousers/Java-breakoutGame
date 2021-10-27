@@ -6,7 +6,6 @@
 </p>
 
 > Created a beakout game using Java using JPanel, KeyListener, Action Listener and AWT Font.
-> Extract .jar file or use class files
 
 ### 🏠 [Homepage](https://github.com/OptimisticTrousers/Java-breakoutGame)
 
@@ -16,5 +15,9 @@
 
 * Github: [@OptimisticTrousers ](https://github.com/OptimisticTrousers )
 * LinkedIn: [@ https:\/\/www.linkedin.com\/in\/tony-isern-9717a0189\/](https://linkedin.com/in/ https:\/\/www.linkedin.com\/in\/tony-isern-9717a0189\/)
+
+## Installation
+
+* Extract .jar file or use class files included, then run the main method class. Use git clone to clone repo into your IDE.
 
 <img src = "Breakout Game.png"/>
