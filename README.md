@@ -14,7 +14,7 @@
 👤 **Tony Isern **
 
 * Github: [@OptimisticTrousers ](https://github.com/OptimisticTrousers )
-* LinkedIn: [@ https:\/\/www.linkedin.com\/in\/tony-isern-9717a0189\/](https://linkedin.com/in/ https:\/\/www.linkedin.com\/in\/tony-isern-9717a0189\/)
+* LinkedIn: [@ https:\/\/www.linkedin.com\/in\/tony-isern-9717a0189\/]
 
 ## Installation
 
